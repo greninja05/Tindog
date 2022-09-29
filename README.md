@@ -1,2 +1,2 @@
 # Tindog
-Spoof Website only using HTML and CSS
+Spoof Website only using HTML CSS and Bootstrap.
